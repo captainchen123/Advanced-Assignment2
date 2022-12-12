@@ -1,4 +1,4 @@
-package assignment2;
+//package assignment2;
 
 import java.net.InetAddress;
 import java.net.UnknownHostException;
