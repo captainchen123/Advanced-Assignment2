@@ -1,4 +1,4 @@
-package assignment2;
+//package assignment2;
 
 import java.net.*;
 import java.util.Scanner;
